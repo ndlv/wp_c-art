@@ -6192,10 +6192,50 @@ th.hide-for-touch {
 
 
 
-/* CUSTOMIZATION */
+/* CUSTOMIZATION ////////////////////////////////////////////////////////////*/
 
 .row .panel {
-  border: 1px solid #C8C3C6;
+
+}
+
+.panel h4 {
+  font-size:11pt;
+  color:grey;
+}
+
+.panel .top {
+  width : 100%;
+  display: block;
+  
+}
+
+
+blockquote {
+  
+  
+  font-size: 15pt;
+  margin: 30px;
+
+
+  padding:.6em;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-bottom: 1.2em;
+
+  
   -moz-border-radius:10px;
   border-radius: 10px;
+
+  quotes: "\201C""\201D""\2018""\2019"; 
+
 }
+
+
+
+
+
+
+
+
+
+
