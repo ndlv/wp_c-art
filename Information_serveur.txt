@@ -1,0 +1,9 @@
+
+c-art.eye.es
+mot de passe: ndvmfmaster1
+base mysql= cart
+nom BDD+ nom utilisateur: u 2056844952_cart
+
+identifiant wordpress: c-art
+mot de passe: ndvmf
+
