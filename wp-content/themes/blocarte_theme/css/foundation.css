@@ -6192,7 +6192,26 @@ th.hide-for-touch {
 
 
 
-/* CUSTOMIZATION ////////////////////////////////////////////////////////////*/
+/* CUSTOMIZATION  knackss (alt) ////////////////////////////////////////////////////////////*/
+
+body {
+  background-color:#2F2F2F;
+}
+
+.panel.article{
+  padding:0px;
+  border-radius:0px;
+  float:left;
+  padding:-3px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.panel.article h1 {
+
+}
+
+
 
 .row .panel {
 
@@ -6200,7 +6219,7 @@ th.hide-for-touch {
 
 .panel h4 {
   font-size:11pt;
-  color:grey;
+  color: #9F9F9F;
 }
 
 .panel .top {
@@ -6229,6 +6248,14 @@ blockquote {
   quotes: "\201C""\201D""\2018""\2019"; 
 
 }
+
+
+.panel img {
+  display:inline-block;
+  width:100%;
+}
+
+
 
 
 
