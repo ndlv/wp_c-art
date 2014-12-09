@@ -1,3 +1,7 @@
+			INFORMATION GENERAL
+
+
+Identifiant serveur ftp hostinger  ////////////////////////////////////
 
 c-art.eye.es
 mot de passe: ndvmfmaster1
@@ -6,4 +10,23 @@ nom BDD+ nom utilisateur: u 2056844952_cart
 
 identifiant wordpress: c-art
 mot de passe: ndvmf
+
+
+///////////////////////////////////////////////////////
+Documentation  //////////////////////////////////////
+
+
+timeline.js
+
+huightlab
+
+pinterest maps
+
+foursquare
+
+mapbox
+
+waypoints.js
+
+
 
