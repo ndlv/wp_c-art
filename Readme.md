@@ -1,8 +1,6 @@
-README
+8 décembre:choix de l’arborescence du word, recherche de thème, et réalisation de logo et icônes
 
-Test Martin
-
-ijsentijsnet
+CHOIX DU LOGO, RÉALISATION DE LA CARTE, INSTALLATION THÈME README
 
 
-test 
+
