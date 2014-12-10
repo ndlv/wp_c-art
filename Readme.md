@@ -1,10 +1,17 @@
+<<<<<<< Updated upstream
 README
 
 Assignation des rôles dans le groupe :
+=======
+8 décembre:choix de l’arborescence du wordpress, recherche de thème, et réalisation de logo et icônes
 
-- Dimitri / Victoria : Création de l'univers graphique, création du logo, style N&B, rédaction d'articles
+CHOIX DU LOGO, RÉALISATION DE LA CARTE, INSTALLATION THÈME
+design épuré blanc et noir  README
+>>>>>>> Stashed changes
+
+- Dimitri / Victoria : Création du wordpress et de l'univers graphique, création du logo, style N&B, rédaction d'articles, installation du thème.
 - Martin : Création du Webdesign, interface, UX, rédaction d'articles
-- Nathan : Création et gestion du wordpress, recherche de thème, programmation, rédaction d'articles
+- Nathan :  recherche de thème, programmation
 - Florent : rédaction d'articles
 
 
