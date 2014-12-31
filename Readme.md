@@ -1,6 +1,6 @@
 <<<<<<< Updated upstream
 README
-
+dimitri=
 29 décembre: installation du pluging « wp-google fonts » pour changer la police d’origine du wordpress. création d’un adresse mail et compte twitter
 
 
