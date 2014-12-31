@@ -1,5 +1,7 @@
 <<<<<<< Updated upstream
 README
+
+
 dimitri=
 29 décembre: installation du pluging « wp-google fonts » pour changer la police d’origine du wordpress. création d’un adresse mail et compte twitter
 
@@ -11,7 +13,7 @@ Assignation des rôles dans le groupe :
 
 CHOIX DU LOGO, RÉALISATION DE LA CARTE, INSTALLATION THÈME
 design épuré blanc et noir  README
->>>>>>> Stashed changes
+ Stashed changes
 
 - Dimitri / Victoria : Création de l'univers graphique, création du logo, style N&B, rédaction d'articles, installation du thème.
 - Martin : Création du Webdesign, interface, UX, rédaction d'articles
